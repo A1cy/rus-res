@@ -1,6 +1,6 @@
 /**
 	Template Name 	 : swigo
-	Author			 : DexignZone
+	Author			 : A1
 	Version			 : 1.1
 	Author Portfolio : https://themeforest.net/user/dexignzone/portfolio
 	
